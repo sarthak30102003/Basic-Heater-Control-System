@@ -1,7 +1,18 @@
 # Heater Control System - Arduino Implementation
+A fully simulated heater control system using Arduino Uno, temperature sensor, LEDs, buzzer, and safety relay logic.
+
 
 ## 🔧 Objective
 Design and implement a simple heater control system that simulates heating using a temperature sensor and controls a heating actuator with feedback mechanisms.
+
+---
+
+## 📁 Files Included
+- `wokwi_code.ino` – Final Arduino code with simulated heater and safety
+- `tinkerCAD_code.ino` – Initial prototype version
+- `bom.csv` – Bill of Materials
+- `TMP36 Temperature Sensor With Arduino.pdf` – Reference schematic sketch guide for sensor
+- `tinkerCAD.png`, `wokwi.png` – Circuit screenshots
 
 ---
 
